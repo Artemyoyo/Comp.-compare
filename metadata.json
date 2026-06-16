@@ -1,0 +1,6 @@
+{
+  "name": "PC Component Compare",
+  "description": "Порівняння відеокарт та процесорів: характеристики, ціни в гривнях, аналіз ціна-якість та продуктивності.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
